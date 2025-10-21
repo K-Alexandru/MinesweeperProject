@@ -61,6 +61,6 @@ Thumbs.db
 .*.swo
 
 # Original decompiled files (keep the new source)
-MinesweeperGame/com/
+MinesweeperGame/
 procyon.jar
 cfr-0.152.jar
